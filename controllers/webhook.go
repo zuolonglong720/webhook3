@@ -34,7 +34,7 @@ func (this *MainController)Post(){
 	fmt.Println("start kafka send")
 	syncProducer(Address,json)
 
-	this.Ctx.WriteString(json)
+	this.Ctx.WriteString("chenggong")
 	fmt.Println("over ---")
 }
 
