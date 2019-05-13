@@ -2,7 +2,7 @@ package controllers
 
 import (	
 	"github.com/astaxie/beego"
-	"github.com/tidwall/gjson"
+//	"github.com/tidwall/gjson"
 	"github.com/Shopify/sarama"
     "time"
     "log"
