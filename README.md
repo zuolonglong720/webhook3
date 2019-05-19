@@ -13,9 +13,9 @@ go语言安装及环境变量设置
 https://studygolang.com/articles/20293#reply0
 sudo apt install git
 注册github
-15328141653@163.com 880906
+15328141653@163.com 0906
 
-a15328141653 880906
+a15328141653 0906
 
 beego安装教程
 	https://beego.me/docs/install/
